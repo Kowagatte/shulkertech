@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "shulkertech",
+  "version": "${version}",
+
+  "name": "ShulkerTech",
+  "description": "Vanilla+ mod aimed at adding more shulker boxes and shulker related mobs.",
+  "authors": [
+    "Kowagatte/DeflatedDuck [Nicholas N Ryan]"
+  ],
+  "contact": {
+    "homepage": "https://damocles.ca/",
+    "sources": "https://github.com/kowagatte/shulkertech"
+  },
+
+  "license": "MIT",
+  "icon": "assets/shulkertech/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "modmenu": [
+      "ca.damocles.shulkertech.utilities.ShulkerTechModMenuIntegration"
+    ],
+    "main": [
+      "ca.damocles.shulkertech.ExampleMod"
+    ],
+    "client": [
+      "ca.damocles.shulkertech.client.ClientEntry"
+    ]
+  },
+  "mixins": [
+    "netherite.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
