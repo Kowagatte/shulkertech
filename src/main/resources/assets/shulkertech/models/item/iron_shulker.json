@@ -1,3 +1,6 @@
 {
-  "parent": "netherite:block/iron_shulker"
+  "parent": "minecraft:item/template_shulker_box",
+  "textures": {
+    "particle": "shulkertech:block/iron_shulker"
+  }
 }
