@@ -1,4 +1,6 @@
 {
-  "text.autoconfig.netherite.title": "Netherite Configuration",
-  "block.netherite.iron_shulker": "Iron Shulker Box"
+  "text.autoconfig.shulkertech.title": "Netherite Configuration",
+  "block.shulkertech.iron_shulker": "Iron Shulker Box",
+  "block.shulkertech.diamond_shulker": "Diamond Shulker Box",
+  "block.shulkertech.netherite_shulker": "Netherite Shulker Box"
 }
