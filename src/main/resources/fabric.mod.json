@@ -22,14 +22,14 @@
       "ca.damocles.shulkertech.utilities.ShulkerTechModMenuIntegration"
     ],
     "main": [
-      "ca.damocles.shulkertech.ExampleMod"
+      "ca.damocles.shulkertech.ShulkerTech"
     ],
     "client": [
       "ca.damocles.shulkertech.client.ClientEntry"
     ]
   },
   "mixins": [
-    "netherite.mixins.json"
+    "shulkertech.mixins.json"
   ],
 
   "depends": {
