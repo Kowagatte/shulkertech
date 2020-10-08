@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "netherite:block/iron_shulker"
+      "model": "shulkertech:block/iron_shulker"
     }
   }
 }
