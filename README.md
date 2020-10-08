@@ -5,7 +5,7 @@
   - [ ] Make (my) shulker boxes unable to be placed in vanilla shulkerboxes
   - [x] Block interactions, piglin aggro
   - [x] block orientation
-  - [ ] Crafting Recipes.
+  - [x] Crafting Recipes.
 
 ## License
 
